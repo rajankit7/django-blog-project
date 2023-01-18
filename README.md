@@ -1,2 +1,2 @@
 # django-blog-project
-blog
+Blog app
